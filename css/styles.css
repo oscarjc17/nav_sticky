@@ -1,0 +1,25 @@
+:root {
+    --almost-white: rgba(243, 243, 243, 0.941);
+    --green-lemon: rgba(8, 164, 8, 0.913);
+    --cajeta: rgb(186, 113, 4);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div_logo-menu {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.div
+
+.logo_img {
+    width: 100%;
+}
